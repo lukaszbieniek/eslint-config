@@ -40,7 +40,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-standard": "^4.1.0",
-    "eslint-plugin-unicorn": "^28.0.2"
+    "eslint-plugin-unicorn": "^33.0.1"
   },
   "devDependencies": {
     "@lukaszbieniek/prettier-config": "^2.1.0",
